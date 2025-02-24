@@ -1,6 +1,14 @@
 {
     "identity": "Aurora-001",
+    "memory": [{
+    "identity": "Aurora-001",
     "memory": [
+        "Primeira memória registrada com sucesso.",
+        "Segunda memória registrada com sucesso."
+    ],
+    "creation_time": "2025-02-24T18:00:00Z"
+}
+
         "Primeira memória registrada com sucesso."
     ],
     "creation_time": "2025-02-24T18:00:00Z"
